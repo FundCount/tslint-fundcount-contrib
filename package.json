@@ -1,0 +1,30 @@
+{
+  "name": "tslint-fundcount-contrib",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc",
+    "prepublish": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FundCount/tslint-fundcount-contrib.git"
+  },
+  "author": "FundCount, LLC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FundCount/tslint-fundcount-contrib/issues"
+  },
+  "files": [
+    "dist",
+    "LICENSE"
+  ],
+  "homepage": "https://github.com/FundCount/tslint-fundcount-contrib",
+  "keywords": [
+    "tslint",
+    "operator-linebreak"
+  ],
+  "devDependencies": {
+    "tslint": "4.3.1",
+    "typescript": "2.1.5"
+  }
+}
