@@ -6,7 +6,7 @@ A set of [TSLint](https://github.com/palantir/tslint) rules used on FundCount pr
 ### Install
 
 ```
-$ npm install --save tslint-fundcount-contrib
+$ npm install --save-dev tslint-fundcount-contrib
 ```
 
 ### Supported rules
